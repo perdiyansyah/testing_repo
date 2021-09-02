@@ -1,0 +1,3 @@
+@Imports ServerMonitoring_APIService.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
